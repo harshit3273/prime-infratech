@@ -44,7 +44,7 @@ export default function CTASection() {
               Get Free Quote <FiArrowRight size={18} />
             </Link>
             <a
-              href="tel:+919999999999"
+              href="tel:+919554679032"
               className="flex items-center gap-2 px-10 py-4 rounded-full border-2 border-white/20 text-white hover:border-gold-500/50 hover:text-gold-400 transition-all duration-300 font-semibold"
             >
               <FiPhone size={18} />
